@@ -1,0 +1,23 @@
+name: Dear world
+favicon: null
+layout_spectrum: 0.6519164107739925
+typography_spectrum: 0.8944550175219774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8313133481424302
+  lightness: 0.5440499279648066
+  saturation: 0.847717315889895
+  rhythmicContrast: 0.6002717949450016
+purpose: []
